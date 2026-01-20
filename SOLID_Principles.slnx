@@ -2,4 +2,5 @@
   <Project Path="Dependency_Inversion_Principle/Dependency_Inversion_Principle.csproj" />
   <Project Path="Interface_Segregation_Principle/Interface_Segregation_Principle.csproj" Id="53265c17-e857-4efa-ac19-6b9b0a3f5c3f" />
   <Project Path="Liskov_Substitution_Principle/Liskov_Substitution_Principle.csproj" />
+  <Project Path="Single_Responsibility_Principle/Single_Responsibility_Principle.csproj" Id="bce997e9-8ee5-4257-b7e0-87c104e63642" />
 </Solution>
